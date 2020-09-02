@@ -29,7 +29,7 @@ var json_data = {
            "free": true
           },
           {
-           "name": "RAW",
+           "name": "Risk SubType c",
            "description": "Open-source interactive tool for creating and exporting D3-like charts",
            "url": "http://raw.densitydesign.org/",
            "free": true
@@ -49,7 +49,32 @@ var json_data = {
            "description": "Free version of Tableau Desktop where charts are public",
            "url": "http://www.tableausoftware.com/products/public",
            "free": true
-          }
+          },
+          {
+            "name": "Risk SubType b",
+            "description": "Free version of Tableau Desktop where charts are public",
+            "url": "http://www.tableausoftware.com/products/public",
+            "free": true
+           },
+           {
+            "name": "Risk SubType b",
+            "description": "Free version of Tableau Desktop where charts are public",
+            "url": "http://www.tableausoftware.com/products/public",
+            "free": true
+           },
+           {
+            "name": "Risk SubType b",
+            "description": "Free version of Tableau Desktop where charts are public",
+            "url": "http://www.tableausoftware.com/products/public",
+            "free": true
+           },
+           {
+            "name": "Risk SubType b",
+            "description": "Free version of Tableau Desktop where charts are public",
+            "url": "http://www.tableausoftware.com/products/public",
+            "free": true
+           }
+
          ]
         }
        ]
