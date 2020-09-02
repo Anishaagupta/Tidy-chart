@@ -80,6 +80,84 @@ var json_data = {
        ]
       },
       {
+        "name": "Pillar 2",
+        "free": true,
+        "description": "Interactive authoring tools",
+        "children": [
+         {
+          "name": "Risk SubType 1",
+          "description": "Web-based 'cloud' applications for authoring data visualisations",
+          "free": true,
+          "children": [
+           {
+            "name": "Risk SubType a",
+            "description": "An open-source platform for publishing charts on the web. Cloud-based or self-hosted.",
+            "url": "https://datawrapper.de/",
+            "free": true
+           },
+           {
+            "name": "Risk SubType b",
+            "description": "Spreadsheet in the cloud with charting",
+            "free": true
+           },
+           {
+            "name": "Risk SubType c",
+            "description": "Cloud-based interactive tool for creating data visualisations",
+            "url": "https://plot.ly/",
+            "free": true
+           },
+           {
+            "name": "Risk SubType c",
+            "description": "Open-source interactive tool for creating and exporting D3-like charts",
+            "url": "http://raw.densitydesign.org/",
+            "free": true
+           }
+          ]
+         },
+         {
+          "name": "Risk SubType 2",
+          "children": [
+           {
+            "name": "Risk SubType a",
+            "description": "Powerful tool for data analytics and visualisation",
+            "url": "http://www.tableausoftware.com/products/desktop"
+           },
+           {
+            "name": "Risk SubType b",
+            "description": "Free version of Tableau Desktop where charts are public",
+            "url": "http://www.tableausoftware.com/products/public",
+            "free": true
+           },
+           {
+             "name": "Risk SubType b",
+             "description": "Free version of Tableau Desktop where charts are public",
+             "url": "http://www.tableausoftware.com/products/public",
+             "free": true
+            },
+            {
+             "name": "Risk SubType b",
+             "description": "Free version of Tableau Desktop where charts are public",
+             "url": "http://www.tableausoftware.com/products/public",
+             "free": true
+            },
+            {
+             "name": "Risk SubType b",
+             "description": "Free version of Tableau Desktop where charts are public",
+             "url": "http://www.tableausoftware.com/products/public",
+             "free": true
+            },
+            {
+             "name": "Risk SubType b",
+             "description": "Free version of Tableau Desktop where charts are public",
+             "url": "http://www.tableausoftware.com/products/public",
+             "free": true
+            }
+ 
+          ]
+         }
+        ]
+       },
+      {
        "name": "Pillar 2",
        "description": "Code-based data visualisation creation",
        "free": true,
