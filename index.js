@@ -195,17 +195,17 @@ var json_data = {
          ]
         },
         {
-         "name": "Other",
+         "name":"Risk SubType 4",
          "description": "Non-JavaScript languages for producing web-based data visualisations",
          "free": true,
          "children": [
           {
-           "name": "Python",
+           "name": "Risk SubType a",
            "description": "Python's a very popular language in data science and is a pleasant language to learn and use",
            "free": true,
            "children": [
             {
-             "name": "Bokeh",
+             "name": "Risk SubType b",
              "description": "A powerful tool for producing interactive plots, dashboards and data applications",
              "url": "https://bokeh.pydata.org/",
              "free": true
@@ -213,12 +213,12 @@ var json_data = {
            ]
           },
           {
-           "name": "R",
+           "name": "Risk SubType c",
            "description": "Very popular language for data science",
            "free": true,
            "children": [
             {
-             "name": "Shiny",
+             "name": "Risk SubType d",
              "description": "A platform for producing web applications using R",
              "url": "http://shiny.rstudio.com/",
              "free": true
