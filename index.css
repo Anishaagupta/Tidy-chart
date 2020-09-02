@@ -40,20 +40,18 @@
   }
   
   a:link, a:visited {
-    color: steelblue;
+    color: #00338D;
     text-decoration: none;
   }
   
   a:hover {
     color: #666;
   }
-  
-  
-  
+   
   .node circle {
     cursor: pointer;
     fill: #fff;
-    stroke: steelblue;
+    stroke: #00338D;
     stroke-width: 1.5px;
   }
   
