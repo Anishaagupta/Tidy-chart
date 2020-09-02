@@ -2,28 +2,28 @@ var json_data = {
     "name": " ",
     "children": [
       {
-       "name": "Interactive tools",
+       "name": "Pillar 1",
        "free": true,
        "description": "Interactive authoring tools",
        "children": [
         {
-         "name": "Browser-based",
+         "name": "Risk SubType 1",
          "description": "Web-based 'cloud' applications for authoring data visualisations",
          "free": true,
          "children": [
           {
-           "name": "Datawrapper",
+           "name": "Risk SubType a",
            "description": "An open-source platform for publishing charts on the web. Cloud-based or self-hosted.",
            "url": "https://datawrapper.de/",
            "free": true
           },
           {
-           "name": "Google Sheets",
+           "name": "Risk SubType b",
            "description": "Spreadsheet in the cloud with charting",
            "free": true
           },
           {
-           "name": "plotly",
+           "name": "Risk SubType c",
            "description": "Cloud-based interactive tool for creating data visualisations",
            "url": "https://plot.ly/",
            "free": true
@@ -37,15 +37,15 @@ var json_data = {
          ]
         },
         {
-         "name": "Desktop",
+         "name": "Risk SubType 2",
          "children": [
           {
-           "name": "Tableau Desktop",
+           "name": "Risk SubType a",
            "description": "Powerful tool for data analytics and visualisation",
            "url": "http://www.tableausoftware.com/products/desktop"
           },
           {
-           "name": "Tableau Public",
+           "name": "Risk SubType b",
            "description": "Free version of Tableau Desktop where charts are public",
            "url": "http://www.tableausoftware.com/products/public",
            "free": true
@@ -55,50 +55,50 @@ var json_data = {
        ]
       },
       {
-       "name": "Coding",
+       "name": "Pillar 2",
        "description": "Code-based data visualisation creation",
        "free": true,
        "children": [
         {
-         "name": "JavaScript",
+         "name": "Risk Type 1",
          "description": "The language behind most (all?) browser-based data visualisations",
          "free": true,
          "children": [
           {
-           "name": "Charting libraries",
+           "name": "Risk SubType 1",
            "description": "Off-the-shelf pre-designed charts. Easy to use but less flexible.",
            "free": true,
            "children": [
             {
-             "name": "Google Charts",
+             "name": "Risk SubType a",
              "description": "A good selection of charts including bar, line, scatter, geo, pie, donut, org etc.",
              "url": "https://developers.google.com/chart/",
              "free": true
             },
             {
-             "name": "HighCharts",
+             "name": "Risk SubType b",
              "description": "A well maintained commercial library of commonly used chart types",
              "url": "https://www.highcharts.com/"
             },
             {
-             "name": "InfoVis",
+             "name": "Risk SubType c",
              "description": "A lovely selection of charts including bar, pie, sunburst, icicle, network, trees etc.",
              "url": "https://philogb.github.io/jit/",
              "free": true
             },
             {
-             "name": "Mapping",
+             "name": "Risk SubType d",
              "description": "Libraries for visualising geographic data",
              "free": true,
              "children": [
               {
-               "name": "Kartograph",
+               "name": "Risk SubType e",
                "description": "Lovely vector based mapping library with good browser support",
                "url": "http://kartograph.org/",
                "free": true
               },
               {
-               "name": "Leaflet",
+               "name": "Risk SubType f",
                "description": "Tile-based mapping library",
                "url": "http://leafletjs.com/",
                "free": true
@@ -106,19 +106,19 @@ var json_data = {
              ]
             },
             {
-             "name": "MetricsGraphics.js",
+             "name": "Risk SubType g",
              "description": "Beautiful line, scatter and histogram charts built on top of D3",
              "url": "http://metricsgraphicsjs.org/",
              "free": true
             },
             {
-             "name": "NVD3",
+             "name": "Risk SubType h",
              "description": "A general purpose charting library built on top of D3",
              "url": "http://nvd3.org/",
              "free": true
             },
             {
-             "name": "Sigma",
+             "name": "Risk SubType i",
              "description": "Library for visualising networks",
              "url": "http://sigmajs.org/",
              "free": true
@@ -126,41 +126,41 @@ var json_data = {
            ]
           },
           {
-           "name": "Custom coded",
+           "name": "Risk SubType 2",
            "description": "For maximum flexibility, custom coding is the way to go. These libraries will lend a hand.",
            "free": true,
            "children": [
             {
-             "name": "D3",
+             "name": "Risk SubType a",
              "description": "The jewel in the crown of web-based data visualisation. A library packed full of components for building any data visualisation you can imagine.",
              "url": "https://d3js.org/",
              "free": true
             },
             {
-             "name": "Ractive",
+             "name": "Risk SubType b",
              "description": "Relatively new, Ractive helps you make your HTML and SVG interactive",
              "url": "http://www.ractivejs.org/",
              "free": true
             },
             {
-             "name": "Raphaël",
+             "name": "Risk SubType c",
              "description": "A general purpose drawing library with good browser support",
              "url": "http://raphaeljs.com/",
              "free": true
             },
             {
-             "name": "Snap.svg",
+             "name": "Risk SubType d",
              "description": "A modern version of Raphaël that supports modern browsers",
              "url": "http://snapsvg.io/",
              "free": true
             },
             {
-             "name": "Variance",
+             "name": "Risk SubType e",
              "description": "A declarative, mark-up based data visualisation library",
              "url": "https://variancecharts.com/"
             },
             {
-             "name": "Vega",
+             "name": "Risk SubType f",
              "description": "A declarative language for specifying data visualistions",
              "url": "https://trifacta.github.io/vega/",
              "free": true
