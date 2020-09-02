@@ -1,5 +1,5 @@
 var json_data = {
-    "name": "Risk ",
+    "name": "Risk",
     "children": [
       {
        "name": "Pillar 1",
