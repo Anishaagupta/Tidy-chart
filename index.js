@@ -76,7 +76,157 @@ var json_data = {
            }
 
          ]
-        }
+        },
+        {
+          "name": "Risk SubType 1",
+          "description": "Web-based 'cloud' applications for authoring data visualisations",
+          "free": true,
+          "children": [
+           {
+            "name": "Risk SubType a",
+            "description": "An open-source platform for publishing charts on the web. Cloud-based or self-hosted.",
+            "url": "https://datawrapper.de/",
+            "free": true
+           },
+           {
+            "name": "Risk SubType b",
+            "description": "Spreadsheet in the cloud with charting",
+            "free": true
+           },
+           {
+            "name": "Risk SubType c",
+            "description": "Cloud-based interactive tool for creating data visualisations",
+            "url": "https://plot.ly/",
+            "free": true
+           },
+           {
+            "name": "Risk SubType c",
+            "description": "Open-source interactive tool for creating and exporting D3-like charts",
+            "url": "http://raw.densitydesign.org/",
+            "free": true
+           }
+          ]
+         },
+         {
+          "name": "Risk SubType 1",
+          "description": "Web-based 'cloud' applications for authoring data visualisations",
+          "free": true,
+          "children": [
+           {
+            "name": "Risk SubType a",
+            "description": "An open-source platform for publishing charts on the web. Cloud-based or self-hosted.",
+            "url": "https://datawrapper.de/",
+            "free": true
+           },
+           {
+            "name": "Risk SubType b",
+            "description": "Spreadsheet in the cloud with charting",
+            "free": true
+           },
+           {
+            "name": "Risk SubType c",
+            "description": "Cloud-based interactive tool for creating data visualisations",
+            "url": "https://plot.ly/",
+            "free": true
+           },
+           {
+            "name": "Risk SubType c",
+            "description": "Open-source interactive tool for creating and exporting D3-like charts",
+            "url": "http://raw.densitydesign.org/",
+            "free": true
+           }
+          ]
+         },
+         {
+          "name": "Risk SubType 1",
+          "description": "Web-based 'cloud' applications for authoring data visualisations",
+          "free": true,
+          "children": [
+           {
+            "name": "Risk SubType a",
+            "description": "An open-source platform for publishing charts on the web. Cloud-based or self-hosted.",
+            "url": "https://datawrapper.de/",
+            "free": true
+           },
+           {
+            "name": "Risk SubType b",
+            "description": "Spreadsheet in the cloud with charting",
+            "free": true
+           },
+           {
+            "name": "Risk SubType c",
+            "description": "Cloud-based interactive tool for creating data visualisations",
+            "url": "https://plot.ly/",
+            "free": true
+           },
+           {
+            "name": "Risk SubType c",
+            "description": "Open-source interactive tool for creating and exporting D3-like charts",
+            "url": "http://raw.densitydesign.org/",
+            "free": true
+           }
+          ]
+         },
+         {
+          "name": "Risk SubType 1",
+          "description": "Web-based 'cloud' applications for authoring data visualisations",
+          "free": true,
+          "children": [
+           {
+            "name": "Risk SubType a",
+            "description": "An open-source platform for publishing charts on the web. Cloud-based or self-hosted.",
+            "url": "https://datawrapper.de/",
+            "free": true
+           },
+           {
+            "name": "Risk SubType b",
+            "description": "Spreadsheet in the cloud with charting",
+            "free": true
+           },
+           {
+            "name": "Risk SubType c",
+            "description": "Cloud-based interactive tool for creating data visualisations",
+            "url": "https://plot.ly/",
+            "free": true
+           },
+           {
+            "name": "Risk SubType c",
+            "description": "Open-source interactive tool for creating and exporting D3-like charts",
+            "url": "http://raw.densitydesign.org/",
+            "free": true
+           }
+          ]
+         },
+         {
+          "name": "Risk SubType 1",
+          "description": "Web-based 'cloud' applications for authoring data visualisations",
+          "free": true,
+          "children": [
+           {
+            "name": "Risk SubType a",
+            "description": "An open-source platform for publishing charts on the web. Cloud-based or self-hosted.",
+            "url": "https://datawrapper.de/",
+            "free": true
+           },
+           {
+            "name": "Risk SubType b",
+            "description": "Spreadsheet in the cloud with charting",
+            "free": true
+           },
+           {
+            "name": "Risk SubType c",
+            "description": "Cloud-based interactive tool for creating data visualisations",
+            "url": "https://plot.ly/",
+            "free": true
+           },
+           {
+            "name": "Risk SubType c",
+            "description": "Open-source interactive tool for creating and exporting D3-like charts",
+            "url": "http://raw.densitydesign.org/",
+            "free": true
+           }
+          ]
+         },
        ]
       },
       {
