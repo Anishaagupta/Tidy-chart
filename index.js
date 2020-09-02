@@ -224,31 +224,31 @@ var json_data = {
              "free": true
             },
             {
-              "name": "Risk SubType d",
+              "name": "Risk SubType e",
               "description": "A platform for producing web applications using R",
               "url": "http://shiny.rstudio.com/",
               "free": true
              },
              {
-              "name": "Risk SubType d",
+              "name": "Risk SubType f",
               "description": "A platform for producing web applications using R",
               "url": "http://shiny.rstudio.com/",
               "free": true
              },
              {
-              "name": "Risk SubType d",
+              "name": "Risk SubType g",
               "description": "A platform for producing web applications using R",
               "url": "http://shiny.rstudio.com/",
               "free": true
              },
              {
-              "name": "Risk SubType d",
+              "name": "Risk SubType h",
               "description": "A platform for producing web applications using R",
               "url": "http://shiny.rstudio.com/",
               "free": true
              },
              {
-              "name": "Risk SubType d",
+              "name": "Risk SubType i",
               "description": "A platform for producing web applications using R",
               "url": "http://shiny.rstudio.com/",
               "free": true
